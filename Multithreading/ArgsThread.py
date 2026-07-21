@@ -7,3 +7,4 @@ t = threading.Thread(target=greet, args=("Adarsh",))
 
 t.start()
 t.join()
+    
