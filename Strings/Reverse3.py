@@ -1,6 +1,6 @@
-num = input("Enter a number: ")
+text = input("Enter a text: ")
 
-num2 = num[::-1]
+text2 = text[::-1]
 
-print(num2)
+print(text2)
 
