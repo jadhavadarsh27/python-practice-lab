@@ -1,5 +1,4 @@
 from datetime import datetime, date, time, timedelta
 
-today = date.today()
-print("Todays date is ", today)
-
+current_time = datetime.now()
+print(current_time)
