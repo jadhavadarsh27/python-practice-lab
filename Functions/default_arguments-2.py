@@ -1,4 +1,4 @@
 def greet(name = "Sauarbh"):
-    print("Hello", name)
+    print("Hello", greet)
 greet()
 greet("Adarsh")
