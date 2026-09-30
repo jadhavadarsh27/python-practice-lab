@@ -4,11 +4,11 @@ class Animal:
 
 class Dog(Animal):
     def sound(self):
-        print("Barking")
+        print("Bark")
 
 class Cat(Animal):
     def sound(self):
-        print("Meowing")
+        print("Meow")
 
 d = Dog()
 c = Cat()
